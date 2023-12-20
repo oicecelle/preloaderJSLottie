@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://oicecelle.github.io/preloaderJSLottie/lottieplux.json',
+        path: 'https://oicecelle.github.io/preloaderJSLottie/pluxlottie.json',
     });
 }
 
